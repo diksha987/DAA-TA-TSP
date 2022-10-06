@@ -7,7 +7,7 @@ WHICH CONSIST OF THE FOLLOWING CONDITIONS :-</P>
 <P>1. BEST DISTANCE WITH THE TIME AND PATH</P>
 <P>2. BEST TIME WITH THE DISTANCE(COST) ANT D PATH</P>
 <P>3. BEST TIME AS WELL AS DISTANCE WITH PATH</P>
-____________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________
 
 <H1><P><P><B>EXPLANATION:</P></B></H1>
 
